@@ -1,0 +1,17 @@
+Requirements
+To run this project, you need the following:
+
+Software
+Python 3.7 or higher
+
+Streamlit (for the web app interface)
+
+NLTK (for text preprocessing)
+
+Scikit-learn (for ML model and vectorizer)
+
+Joblib (for model saving and loading)
+
+Pandas (for handling prediction history data)
+
+Matplotlib (for visualization of prediction history)
